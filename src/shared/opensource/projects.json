@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "id": "874906691",
+      "name": "Automated-code-refactoring-tool",
+      "createdAt": "2024-08-12T10:00:00Z",
+      "url": "https://github.com/yaswanth-2005/Automated-code-refactoring-tool",
+      "description": "A tool designed to automatically refactor code to improve readability and performance. Built with a focus on maintainability and ease of integration with existing codebases. Developed using JavaScript and Node.js.",
+      "isFork": false,
+      "languages": [
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "Node.js", "iconifyClass": "logos-nodejs" }
+      ]
+    },
+    {
+      "id": "874906692",
+      "name": "Habit-Tracker",
+      "createdAt": "2024-09-10T14:30:00Z",
+      "url": "https://github.com/yaswanth-2005/Habit-Tracker",
+      "description": "A user-friendly habit tracking application to help users build and maintain positive habits. Includes features such as reminders, progress tracking, and analytics. Developed using React and Firebase.",
+      "isFork": false,
+      "languages": [
+          {"name": "TypeScript", "iconifyClass": "logos-typescript-icon"},
+        { "name": "React", "iconifyClass": "logos-react" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" }
+      ]
+    },
+    {
+      "id": "874906693",
+      "name": "Chat-App-frontend",
+      "createdAt": "2024-10-05T09:20:00Z",
+      "url": "https://github.com/yaswanth-2005/Chat-App-frontend",
+      "description": "Frontend for a real-time chat application, providing a modern and responsive interface with features like group chats and media sharing. Developed using React and Material-UI.",
+      "isFork": false,
+      "languages": [
+        { "name": "React", "iconifyClass": "logos-react" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" }
+      ]
+    },
+    {
+      "id": "874906694",
+      "name": "Chat-App-Backend",
+      "createdAt": "2024-10-05T10:00:00Z",
+      "url": "https://github.com/yaswanth-2005/Chat-App-Backend",
+      "description": "Backend for a real-time chat application, offering features like WebSocket-based communication, user authentication, and scalable chatroom management. Built with Node.js and Express.",
+      "isFork": false,
+      "languages": [
+        { "name": "Node.js", "iconifyClass": "logos-nodejs" },
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" }
+      ]
+    },
+    {
+      "id": "891637579",
+      "name": "LinkedIn_Clone",
+      "createdAt": "2024-11-20T17:25:44Z",
+      "url": "https://github.com/yaswanth-2005/LinkedIn_Clone",
+      "description": "A LinkedIn clone developed using modern web technologies. Features include user profiles, posts, and a feed. Built with HTML, CSS, and JavaScript.",
+      "isFork": false,
+      "languages": [
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" },
+        { "name": "HTML", "iconifyClass": "logos-react" }
+      ]
+    },
+    {
+      "id": "871857498",
+      "name": "study_jams_dashboard",
+      "createdAt": "2024-10-13T06:12:29Z",
+      "url": "https://github.com/yaswanth-2005/study_jams_dashboard",
+      "description": "A dashboard application for managing and tracking study sessions and tasks. Built with a clean user interface using JavaScript, HTML, and CSS.",
+      "isFork": false,
+      "languages": [
+        { "name": "JavaScript", "iconifyClass": "logos-javascript" },
+        { "name": "CSS", "iconifyClass": "logos-react" },
+        { "name": "HTML", "iconifyClass": "logos-css-3" }
+      ]
+    }
+  ]
+}
