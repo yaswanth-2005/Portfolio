@@ -59,7 +59,7 @@
       "languages": [
         { "name": "JavaScript", "iconifyClass": "logos-javascript" },
         { "name": "CSS", "iconifyClass": "logos-css-3" },
-        { "name": "HTML", "iconifyClass": "logos-react" }
+        { "name": "React", "iconifyClass": "logos-react" }
       ]
     },
     {
@@ -71,8 +71,8 @@
       "isFork": false,
       "languages": [
         { "name": "JavaScript", "iconifyClass": "logos-javascript" },
-        { "name": "CSS", "iconifyClass": "logos-react" },
-        { "name": "HTML", "iconifyClass": "logos-css-3" }
+        { "name": "React", "iconifyClass": "logos-react" },
+        { "name": "CSS", "iconifyClass": "logos-css-3" }
       ]
     }
   ]
